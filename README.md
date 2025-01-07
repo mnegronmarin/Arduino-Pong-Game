@@ -1,4 +1,4 @@
-# Arduino-Pong-Game
+# Arduino-Pong-Game 🏓
 
 Bring retro gaming to life with this Arduino-based recreation of the iconic 1972 Pong game by Allan Alcorn. With simply two paddles and one ball this game brings endless amounts of fun. This project draws inspiration from and credits eholk's Arduino-Pong. 
 
