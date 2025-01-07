@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/538eef77-33ab-4178-bcd7-608b6d97a748
 
 # What I added
 
-While my code closely resembles eholk's original version, I’ve added several new features to enhance the game experience. First, I made the code compatible with the OLED I2C 128x64 screen I’m using. Second, I introduced a new "dimension" to the paddle mechanics. Originally, the ball would always bounce upward in the opposite direction after hitting a paddle. I modified this behavior so that if the ball hits the bottom half of the paddle, it bounces downward, and if it hits the upper half, it bounces upward. This seemingly small change significantly increases the variety of possible outcomes in the game. Finally, I incorporated a passive buzzer to play sounds whenever the ball hits a paddle, when a point is scored, and when a player wins.
+While my code closely resembles eholk's original version, I’ve added several new features to enhance the game experience. First, I made the code compatible with the OLED I2C 128x64 screen I’m using. Second, I introduced a new "dimension" to the paddle mechanics. Originally, the ball would always bounce upward in the opposite direction after hitting a paddle. I modified this behavior so that if the ball hits the bottom half of the paddle, it bounces downward, and if it hits the upper half, it bounces upward. This seemingly small change significantly increases the variety of possible outcomes in the game. Third, I incorporated a passive buzzer to play sounds whenever the ball hits a paddle, when a point is scored, and when a player wins. Finally, I added a two-player functionality to the game which allows you to share this experience with another player!
 
 # Construction
 
