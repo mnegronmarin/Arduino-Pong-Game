@@ -8,7 +8,7 @@ Bring retro gaming to life with this Arduino-based recreation of the iconic 1972
 
 # Video
 
-
+https://github.com/user-attachments/assets/538eef77-33ab-4178-bcd7-608b6d97a748
 
 # Materials
 
@@ -23,6 +23,9 @@ Bring retro gaming to life with this Arduino-based recreation of the iconic 1972
 While my code is very similar to eholk's version, I added several new features which allow for a more immersive game experience. First off, I made the code compatible for the OLED screen I am using (OLED I2C 128x64). Second, I added a new "dimension" to the paddles each player controls. Initially, when the paddle bounced off a player's paddle, the ball would always go up in the opposite direction. I made it so that if the ball hits the bottom hald of the paddle the ball would bounce downwards and if it hit the upper hald it'd bounce upwards. This change, as small as it may seem, adds more diversity to the game's possibilities in terms of outcomes. Finally, I added a passive buzzer to add sounds for whenever a the ball hit the paddles, when someoned scored, and when someone won. 
 
 # Construction
+
+<img width="301" alt="image" src="https://github.com/user-attachments/assets/86c1afd4-3b5d-48e7-86b4-b089932233a0" />
+
 
 # Credits
 https://github.com/eholk/Arduino-Pong
